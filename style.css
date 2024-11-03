@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+    border-width: 0;
+    border-style: solid;
+    border-color: #e5e7eb;
+}
+
+body {
+    font-family: "Poppins", sans-serif;
+}
+.serch-btn-sec {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 0.5 rem;
+}
